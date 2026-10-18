@@ -243,4 +243,4 @@ This repository serves as the official landing page for Baidu PC Faster. The sof
 **Get the most recent version of Baidu PC Faster today!**
 
 ---
-**Last updated:** 2026-10-18 11:47:25 UTC
+**Last updated:** 2026-10-18 14:55:03 UTC
